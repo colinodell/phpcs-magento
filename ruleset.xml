@@ -54,7 +54,6 @@
     <rule ref="PEAR.Commenting.ClassComment"/>
     <rule ref="PEAR.Commenting.FunctionComment"/>
     <rule ref="PEAR.Commenting.InlineComment"/>
-    <rule ref="PEAR.ControlStructures.ControlSignature"/>
     <rule ref="PEAR.ControlStructures.MultiLineCondition"/>
     <rule ref="PEAR.Functions.FunctionCallSignature"/>
     <rule ref="PEAR.Functions.FunctionDeclaration"/>
@@ -63,6 +62,10 @@
     <rule ref="PEAR.WhiteSpace.ScopeClosingBrace"/>
 
     <rule ref="Squiz.Commenting.FunctionCommentThrowTag"/>
+    <rule ref="Squiz.ControlStructures.ControlSignature"/>
+    <rule ref="Squiz.ControlStructures.ForEachLoopDeclaration"/>
+    <rule ref="Squiz.ControlStructures.ForLoopDeclaration"/>
+    <rule ref="Squiz.ControlStructures.LowercaseDeclaration"/>
     <rule ref="Squiz.Functions.GlobalFunction"/>
     <rule ref="Squiz.Operators.IncrementDecrementUsage"/>
     <rule ref="Squiz.Operators.ValidLogicalOperators"/>
