@@ -62,7 +62,6 @@
     <rule ref="PEAR.Commenting.InlineComment"/>
     <rule ref="PEAR.ControlStructures.MultiLineCondition"/>
     <rule ref="PEAR.Functions.FunctionCallSignature"/>
-    <rule ref="PEAR.Functions.FunctionDeclaration"/>
     <rule ref="PEAR.Functions.ValidDefaultValue"/>
     <rule ref="PEAR.WhiteSpace.ObjectOperatorIndent"/>
     <rule ref="PEAR.WhiteSpace.ScopeClosingBrace"/>
