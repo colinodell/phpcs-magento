@@ -1,0 +1,15 @@
+{
+    "name": "colinodell/phpcs-magento",
+    "description": "phpcs code sniffs for Magento",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Colin O'Dell",
+            "email": "colinodell@gmail.com"
+        }
+    ],
+    "suggest": {
+        "squizlabs/php_codesniffer": ""
+    }
+}
