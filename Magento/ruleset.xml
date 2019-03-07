@@ -56,16 +56,6 @@
     <rule ref="Generic.WhiteSpace.DisallowTabIndent"/>
     <rule ref="Generic.WhiteSpace.ScopeIndent"/>
 
-    <rule ref="Magento.Commenting.ClassComment.Missing">
-        <severity>0</severity>
-    </rule>
-    <rule ref="Magento.Commenting.FunctionComment.MissingParamComment">
-        <severity>0</severity>
-    </rule>
-    <rule ref="Magento.Commenting.FunctionComment.SpacingBeforeTags">
-        <severity>0</severity>
-    </rule>
-
     <rule ref="PEAR.Classes.ClassDeclaration"/>
     <rule ref="PEAR.Commenting.InlineComment"/>
     <rule ref="PEAR.ControlStructures.MultiLineCondition"/>
